@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Calculatrice React Native",
+    "slug": "calculatrice-react-native",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+      "backgroundColor": "#6a11cb"
+    }
+  }
+}
